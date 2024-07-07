@@ -8,3 +8,13 @@ Code for [LINT: Language Interaction Network for Clinical Trial Approval Estimat
 - git clone this repository
 
 - install requirements as needed
+
+Please cite the following!
+```text
+@article{gao2024language,
+  title={Language Interaction Network for Clinical Trial Approval Estimation},
+  author={Gao, Chufan and Fu, Tianfan and Sun, Jimeng},
+  journal={arXiv preprint arXiv:2405.06662},
+  year={2024}
+}
+```
